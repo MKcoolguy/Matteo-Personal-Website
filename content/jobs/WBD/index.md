@@ -1,13 +1,13 @@
 ---
 date: '2022-10-01'
-title: 'Techincal Product Owner'
+title: 'Analyst'
 company: 'Warner Bros. Discovery'
 location: 'Atlanta, GA'
 range: 'October 2022 - Current'
 url: 'https://wbd.com/'
 ---
 
-- Developed and shipped advertising applications for the NBA & NCAA using React
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+- Developed dashboards to easily visualize and analyze data for NCAA’s March Madness Live iOS and Android applications
+- Implemented scalable web, mobile application and connected device advertising products utilizing React and various internally developed libraries
+- Architected solutions and provided support for advertising tools and internally developed applications to the development team
+- Took on a client facing role to manage relations and technical specifications with brands like the NHL, MLB, and NBA to drive ad sales revenue

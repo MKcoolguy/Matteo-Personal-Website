@@ -11,4 +11,4 @@ company: 'Upstatement'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Built a custom portfolio optimizer that optimized for Sharpe Ratio by utilizing Python, Pandas, and Numpy

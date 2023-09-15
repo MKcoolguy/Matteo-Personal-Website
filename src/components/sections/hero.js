@@ -44,6 +44,11 @@ const StyledHeroSection = styled.section`
     ${({ theme }) => theme.mixins.bigButton};
     margin-top: 50px;
   }
+
+  p gtcolor {
+    color: #b3a369;
+    font-weight: bold;
+  }
 `;
 
 const Hero = () => {
@@ -65,14 +70,14 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in Java, Python, React, and Angular. I am focused on
-        delivering a product of the utmost quality where users will have a great experience. At
-        night I tinker with random projects, read, and enjoy listening to other peoples stories.
+        I’m a full-stack developer and a dedicated Master's student enrolled at{' '}
+        <gtcolor>Georgia Tech</gtcolor>. I specialize in Java, Python, React, and Angular. At night
+        I tinker with random projects, read, and enjoy listening to other people's stories.
       </p>
     </>
   );
   const five = (
-    <a className="email-link" href="matteokitic7@gmail.com" target="_blank" rel="noreferrer">
+    <a className="email-link" href={`mailto:${'matteokitic7@gmail.com'}`}>
       Get In Touch
     </a>
   );

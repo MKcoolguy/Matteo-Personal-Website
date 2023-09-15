@@ -45,6 +45,16 @@ const StyledText = styled.div`
       }
     }
   }
+
+  p gtcolor {
+    color: #b3a369;
+    font-weight: bold;
+  }
+
+  p emph {
+    font-weight: bold;
+    text-decoration: underline;
+  }
 `;
 const StyledPic = styled.div`
   position: relative;
@@ -135,13 +145,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello, My name is Matteo and I'm a fullstack developer! I have exeperince in product
-              management and software devlopment.
+              Hello! I am Matteo, a full-stack developer and a dedicated Master's in Computer
+              Science student enrolled at
+              <gtcolor> Georgia Tech</gtcolor>. My professional and academic journey thus far has
+              equipped me with extensive expertise in{' '}
+              <gtcolor>software development, machine learning, and applied mathematics</gtcolor>.
             </p>
             <p>
-              I'm fascinated by algorithms, optimization, and finding innovative solutions to
-              complex problems. I spend much of my free time learning new things and exploring the
-              world!
+              Presently, I am dedicated to channeling my academic pursuits and research endeavors
+              towards the application of machine learning in the context of{' '}
+              <gtcolor>finance and more specifically trading</gtcolor>.{' '}
+            </p>
+            <p>
+              I'm fascinated by the world of finance, algorithms, optimization, and finding
+              innovative solutions to complex problems. I spend much of my free time learning new
+              things and reading!
             </p>
           </div>
 

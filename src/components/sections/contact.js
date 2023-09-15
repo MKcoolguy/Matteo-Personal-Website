@@ -39,6 +39,10 @@ const StyledContactSection = styled.section`
     ${({ theme }) => theme.mixins.bigButton};
     margin-top: 50px;
   }
+
+  p gtcolor {
+    color: #b3a369;
+  }
 `;
 
 const Contact = () => {
@@ -60,9 +64,9 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I am currently looking for new Software Engineer oppurtunites, my inbox is always open.
-        Whether you have a question or just want to say hi, just shoot me an email and I will get
-        back to you!
+        I am currently looking for <gtcolor>2024 internship opportunities</gtcolor>, my inbox is
+        always open. Whether you have a question or just want to say hi, just shoot me an email and
+        I will get back to you!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>

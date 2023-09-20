@@ -1,15 +1,16 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Structural Analysis IoT'
+cover: './demo2.png'
+github: ''
+external: ''
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Flask
+  - Python
+  - Pandas
+  - Numpy
+  - OpenCV
+  - Raspberry Pi
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+An IoT system utilizng a Raspberry PI and various sensors for visualizing real-time data and assessing strucural integrity using canny edge detection.

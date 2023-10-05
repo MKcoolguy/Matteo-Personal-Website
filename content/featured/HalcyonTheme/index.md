@@ -1,9 +1,9 @@
 ---
 date: '1'
-title: 'Virtual Trading Tourney'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Figgie'
+cover: './demo.png'
+github: ''
+external: ''
 tech:
   - React
   - socket.io
@@ -11,4 +11,4 @@ tech:
   - passport.js
 ---
 
-A web platform that offers users the opportunity to simulate real trading experiences in a multiplayer and competitive setting
+A web platform for multiplayer Figgie, a card game originally invented by Jane Street about trading and market making.

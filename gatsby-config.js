@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Matteo Kitic',
     description:
-      'I work on challenging problems and thinkabout life. I spend my days immersed in my academic pursuits, and in my free time, I enjoy tinkering with random projects and listening to others people\'s stories.',
+      '. I work on challenging problems and think about life. I spend my days immersed in my academic pursuits, and in my free time, I enjoy tinkering with random projects and listening to others people\'s stories.',
     siteUrl: 'https://matteokitic.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     //twitterUsername: '@bchiang7',

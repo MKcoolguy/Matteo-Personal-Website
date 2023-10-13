@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Matteo Kitic',
     description:
-      'Matteo Kitic is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'I work on challenging problems and thinkabout life. I spend my days immersed in my academic pursuits, and in my free time, I enjoy tinkering with random projects and listening to others people\'s stories.',
     siteUrl: 'https://matteokitic.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     //twitterUsername: '@bchiang7',

@@ -8,6 +8,8 @@ tech:
   - Python
   - Pandas
   - Numpy
+  - Matplot
+  - Dash
   - OpenCV
   - Raspberry Pi
 ---

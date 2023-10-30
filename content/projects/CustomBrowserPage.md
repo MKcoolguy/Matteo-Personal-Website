@@ -2,7 +2,6 @@
 date: '2022-01-10'
 title: 'CBP: Custom Browser Page'
 github: 'https://github.com/MKcoolguy/Angular-Home-Page'
-external: ''
 tech:
   - Angular
   - Typescript

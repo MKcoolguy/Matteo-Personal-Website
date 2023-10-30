@@ -2,7 +2,6 @@
 date: '2022-08-27'
 title: 'Roulette Simulator'
 github: ''
-external: ''
 tech:
   - Python
   - Numpy

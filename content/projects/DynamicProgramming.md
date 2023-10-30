@@ -2,7 +2,6 @@
 date: '2023-07-16'
 title: 'Dynamic Programming '
 github: ''
-external: ''
 tech:
   - Python
   - numpy

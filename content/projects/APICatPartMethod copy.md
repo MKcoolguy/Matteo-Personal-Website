@@ -2,7 +2,6 @@
 date: '2022-05-20'
 title: 'API Category Parition Method'
 github: 'https://github.com/MarshMaster11/Team_Java_Beans'
-external: ''
 tech:
   - Java
   - Spring

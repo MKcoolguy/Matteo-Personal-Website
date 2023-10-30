@@ -3,7 +3,6 @@ date: '2'
 title: 'Structural Analysis IoT'
 cover: './demo2.png'
 github: ''
-external: ''
 tech:
   - Flask
   - Python

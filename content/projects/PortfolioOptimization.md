@@ -2,7 +2,6 @@
 date: '2023-08-27'
 title: 'Portfolio Optimization'
 github: ''
-external: ''
 tech:
   - Python
   - Numpy

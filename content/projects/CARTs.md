@@ -2,7 +2,6 @@
 date: '2023-09-24'
 title: 'Assessing Classification and Regression Trees'
 github: ''
-external: ''
 tech:
   - Python
   - Numpy

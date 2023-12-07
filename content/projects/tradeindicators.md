@@ -1,6 +1,6 @@
 ---
 date: '2023-10-30'
-title: 'Tecnical Indicators'
+title: 'Technical Indicators'
 github: ''
 tech:
   - Python

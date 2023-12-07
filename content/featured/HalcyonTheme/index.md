@@ -1,14 +1,15 @@
 ---
 date: '1'
-title: 'Figgie'
+title: 'Trading Bot'
 cover: './demo.png'
 github: ''
 external: ''
 tech:
-  - React
-  - socket.io
-  - express.js
-  - passport.js
+  - Python
+  - Matplot
+  - SciPy
+  - NumPy
+  - Pandas
 ---
 
-A web platform for multiplayer Figgie, a card game originally invented by Jane Street about trading and market making.
+A Trading bot utilzing various different technical indicators and an emsemble learner to evaluate and execute trades.

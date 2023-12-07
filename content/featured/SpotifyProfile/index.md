@@ -7,7 +7,7 @@ tech:
   - Flask
   - Python
   - Pandas
-  - Numpy
+  - NumPy
   - Matplot
   - Dash
   - OpenCV

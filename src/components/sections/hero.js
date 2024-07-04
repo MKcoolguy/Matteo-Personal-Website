@@ -71,8 +71,8 @@ const Hero = () => {
     <>
       <p>
         I’m a full-stack developer and a dedicated Master's student enrolled at{' '}
-        <gtcolor>Georgia Tech</gtcolor>. I specialize in Java, Python, React, and Angular. At night
-        I tinker with random projects, read, and enjoy listening to other people's stories.
+        <gtcolor>Georgia Tech</gtcolor>. I have a strong interest in finance and technology. At
+        night I tinker with random projects, read, and enjoy listening to other people's stories.
       </p>
     </>
   );

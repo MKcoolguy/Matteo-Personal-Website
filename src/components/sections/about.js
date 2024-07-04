@@ -148,13 +148,17 @@ const About = () => {
               Hello! I am Matteo, a full-stack developer and a dedicated Master's in Computer
               Science student enrolled at
               <gtcolor> Georgia Tech</gtcolor>. My professional and academic journey thus far has
-              equipped me with extensive expertise in{' '}
+              equipped me with knowledge in{' '}
               <gtcolor>software development, machine learning, and applied mathematics</gtcolor>.
             </p>
             <p>
               Presently, I am dedicated to channeling my academic pursuits and research endeavors
               towards the application of machine learning in the context of{' '}
-              <gtcolor>finance and more specifically trading</gtcolor>.{' '}
+              <gtcolor>
+                finance and more specifically trading with a focus on fundamental and technical
+                analysis
+              </gtcolor>
+              .{' '}
             </p>
             <p>
               I'm fascinated by the world of finance, algorithms, optimization, and finding

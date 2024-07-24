@@ -12,4 +12,4 @@ tech:
   - Pandas
 ---
 
-A Trading bot utilzing various different technical indicators and an emsemble learner to evaluate and execute trades.
+A Trading bot utilzing various different technical indicators and an ensemble learner to evaluate and execute trades.

@@ -3,7 +3,7 @@ date: '2022-10-01'
 title: 'Analyst'
 company: 'Warner Bros. Discovery'
 location: 'Atlanta, GA'
-range: 'October 2022 - August 2023'
+range: 'October 2022 - '
 url: 'https://wbd.com/'
 ---
 

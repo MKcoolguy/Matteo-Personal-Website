@@ -161,9 +161,9 @@ const About = () => {
               .{' '}
             </p>
             <p>
-              I'm fascinated by the world of finance, algorithms, optimization, and finding
-              innovative solutions to complex problems. I spend much of my free time learning new
-              things and reading!
+              I'm fascinated by the world of finance, algorithms, software, optimization, and
+              finding innovative solutions to complex problems. I spend much of my free time
+              learning new things and reading!
             </p>
           </div>
 

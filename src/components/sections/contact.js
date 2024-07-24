@@ -64,7 +64,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I am currently looking for <gtcolor>2025 internship opportunities</gtcolor>, my inbox is
+        I am currently looking for <gtcolor>opportunities in Tech and Finance</gtcolor>, my inbox is
         always open. Whether you have a question or just want to say hi, just shoot me an email and
         I will get back to you!
       </p>

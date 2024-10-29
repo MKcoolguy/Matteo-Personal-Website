@@ -135,7 +135,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'Java', 'NumpPy', 'Pandas', 'JavaScript', 'TypeScript', 'React'];
+  const skills = [];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -149,21 +149,26 @@ const About = () => {
               Science student enrolled at
               <gtcolor> Georgia Tech</gtcolor>. My professional and academic journey thus far has
               equipped me with knowledge in{' '}
-              <gtcolor>software development, machine learning, and applied mathematics</gtcolor>.
-            </p>
-            <p>
-              Presently, I am dedicated to channeling my academic pursuits and research endeavors
-              towards the application of machine learning in the context of{' '}
               <gtcolor>
-                finance and more specifically trading with a focus on fundamental and technical
-                analysis
+                software development, machine learning, applied mathematics, finance, & leadsership.
               </gtcolor>
-              .{' '}
             </p>
             <p>
-              I'm fascinated by the world of finance, algorithms, software, optimization, and
-              finding innovative solutions to complex problems. I spend much of my free time
-              learning new things and reading!
+              I am passionate about leveraging technology to drive innovation and improve processes
+              across various domains.{' '}
+              <gtcolor>
+                {' '}
+                My interests span technology, finance, algorithms, optimization, leadsership, and
+                the development of creative solutions to complex challenges.{' '}
+              </gtcolor>{' '}
+              I thrive in environments where I can learn continuously and apply my knowledge to
+              real-world applications. .{' '}
+            </p>
+            <p>
+              In my free time, I enjoy exploring new ideas and technologies, which fuels my
+              commitment to personal and professional growth. I am excited about opportunities that
+              allow me to contribute my skills and collaborate with others to create impactful
+              solutions.
             </p>
           </div>
 

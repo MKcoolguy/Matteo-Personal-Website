@@ -70,9 +70,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a full-stack developer and a dedicated Master's student enrolled at{' '}
-        <gtcolor>Georgia Tech</gtcolor>. I have a strong interest in finance and technology. At
-        night I tinker with random projects, read, and enjoy listening to other people's stories.
+        I’m a graduate student enrolled at <gtcolor>Georgia Tech</gtcolor>. I have a strong interest
+        in collbaortive environemnts where I can lead projects and work alongside others to acheive
+        a common goal . At night I tinker with random projects, read, and enjoy listening to other
+        people's stories.
       </p>
     </>
   );

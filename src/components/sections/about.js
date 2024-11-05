@@ -162,7 +162,7 @@ const About = () => {
                 the development of creative solutions to complex challenges.{' '}
               </gtcolor>{' '}
               I thrive in environments where I can learn continuously and apply my knowledge to
-              real-world applications. .{' '}
+              real-world applications.{' '}
             </p>
             <p>
               In my free time, I enjoy exploring new ideas and technologies, which fuels my

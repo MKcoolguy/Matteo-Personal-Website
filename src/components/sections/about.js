@@ -150,7 +150,7 @@ const About = () => {
               <gtcolor> Georgia Tech</gtcolor>. My professional and academic journey thus far has
               equipped me with knowledge in{' '}
               <gtcolor>
-                software development, machine learning, applied mathematics, finance, & leadsership.
+                software development, AI/ML, applied mathematics, finance, & leadsership.
               </gtcolor>
             </p>
             <p>

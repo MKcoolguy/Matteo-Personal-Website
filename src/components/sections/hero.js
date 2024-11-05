@@ -71,7 +71,7 @@ const Hero = () => {
     <>
       <p>
         I’m a graduate student enrolled at <gtcolor>Georgia Tech</gtcolor>. I have a strong interest
-        in working in collbaortive environemnts where I can lead projects and work alongside others
+        in working in collaborative environemnts where I can lead projects and work alongside others
         to acheive a common goal. At night I tinker with random projects, read, and enjoy listening
         to other people's stories.
       </p>

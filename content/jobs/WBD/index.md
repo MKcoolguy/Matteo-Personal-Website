@@ -1,6 +1,6 @@
 ---
 date: '2022-10-01'
-title: 'Technical Product Owner'
+title: 'Analyst'
 company: 'Warner Bros. Discovery'
 location: 'Atlanta, GA'
 range: 'October 2022 - '
